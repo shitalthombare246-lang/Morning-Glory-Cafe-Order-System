@@ -23,3 +23,5 @@ It helps cafes manage customer orders, calculate bills, and store order details 
 
 ```bash
 python p1.py
+
+![App Screenshot](app_home.png)
