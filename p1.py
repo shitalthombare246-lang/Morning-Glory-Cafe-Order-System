@@ -1,7 +1,7 @@
 # ==========================================
 # Morning Glory Cafe Order System
-# Database : MorningCafe.db
-# Table    : Cafe
+# Developed using Python Tkinter and SQLite
+# Author: Shital Thombare
 # ==========================================
 
 from tkinter import *
@@ -225,3 +225,4 @@ Button(root, text="Exit", font=f_btn, width=20, command=root.destroy).pack(pady=
 
 update_location_temp()
 root.mainloop()
+
