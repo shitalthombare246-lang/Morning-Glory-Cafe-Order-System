@@ -1,22 +1,25 @@
 # Morning Glory Cafe Order System ☕
 
-## Description
-This is a Python GUI-based Cafe Order Management System developed using Tkinter and SQLite.
+## 📌 Project Description
+Morning Glory Cafe Order System is a Python-based desktop application developed using Tkinter.
+It helps cafes manage customer orders, calculate bills, and store order details using an SQLite database.
 
-## Features
-- Add, View, Update, Delete customer orders
-- User-friendly GUI
-- SQLite database integration
+## 🚀 Features
+- User-friendly GUI using Tkinter
+- Add and manage cafe orders
+- Automatic bill calculation
+- Data storage using SQLite
+- Simple and clean interface
 
-## Technologies Used
+## 🛠 Tech Stack
 - Python
-- Tkinter
-- SQLite
+- Tkinter (GUI)
+- SQLite (Database)
 
-## How to Run
-1. Install Python
-2. Run the main Python file
-3. Database will auto-create
+## ▶️ How to Run the Project
+1. Clone the repository
+2. Make sure Python is installed
+3. Run the following command:
 
-## Author
-Shital Thombare
+```bash
+python p1.py
